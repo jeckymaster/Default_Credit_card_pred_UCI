@@ -7,13 +7,13 @@
 
 
 ---
-![](388737-PC5WB4-539.jpg)
+![](https://th.bing.com/th/id/OIP.IGjQu6blwo2HISIz5WcaHAHaGH?pid=ImgDet&rs=1)
 ---
 
-This *advanced* level data set has 30000 rows and 24 input feature and 1 output feature.
-The data set could be used to estimate the probability of default payment by credit card client using the data provided, means that **the client will pay the next mont bill or not.**
-**The classification modelling techniques has been used for training the model**. 
-Feel free to explore the data set with multiple **supervised** learning algorithms. The Following data dictionary gives more details on this data set:
+- This *advanced* level data set has 30000 rows and 24 input features and 1 output feature.<br/>
+- The data set could be used to estimate the probability of default payment by credit card client using the data provided, means that **the client will pay the next mont bill or not.**<br/>
+- **The classification modelling techniques has been used for training the model**.<br/> 
+- Feel free to explore the data set with multiple **supervised** learning algorithms. The Following data dictionary gives more details on this data set:
 
 ---
 
